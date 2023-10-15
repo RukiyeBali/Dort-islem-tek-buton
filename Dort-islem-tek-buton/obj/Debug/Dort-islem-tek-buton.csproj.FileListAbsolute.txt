@@ -1,0 +1,10 @@
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Dort-islem-tek-buton\Dort-islem-tek-buton\bin\Debug\Dort-islem-tek-buton.exe.config
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Dort-islem-tek-buton\Dort-islem-tek-buton\bin\Debug\Dort-islem-tek-buton.exe
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Dort-islem-tek-buton\Dort-islem-tek-buton\bin\Debug\Dort-islem-tek-buton.pdb
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Dort-islem-tek-buton\Dort-islem-tek-buton\obj\Debug\Dort-islem-tek-buton.csproj.AssemblyReference.cache
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Dort-islem-tek-buton\Dort-islem-tek-buton\obj\Debug\Dort_islem_tek_buton.Form1.resources
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Dort-islem-tek-buton\Dort-islem-tek-buton\obj\Debug\Dort_islem_tek_buton.Properties.Resources.resources
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Dort-islem-tek-buton\Dort-islem-tek-buton\obj\Debug\Dort-islem-tek-buton.csproj.GenerateResource.cache
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Dort-islem-tek-buton\Dort-islem-tek-buton\obj\Debug\Dort-islem-tek-buton.csproj.CoreCompileInputs.cache
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Dort-islem-tek-buton\Dort-islem-tek-buton\obj\Debug\Dort-islem-tek-buton.exe
+C:\Users\NERGİS GIDA\Desktop\PROJELERİM\Dort-islem-tek-buton\Dort-islem-tek-buton\obj\Debug\Dort-islem-tek-buton.pdb
